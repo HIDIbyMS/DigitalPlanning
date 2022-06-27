@@ -7,6 +7,9 @@ const viewerOptions = {
     showPrintPDF: false,
     showLeftHandPanel: true,
     showAnnotationTools: true
+    enableAnnotationAPIs: true, 
+    includePDFAnnotations: true,
+
 };
 
 document.addEventListener("adobe_dc_view_sdk.ready", function () {
