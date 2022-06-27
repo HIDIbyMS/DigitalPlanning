@@ -7,8 +7,6 @@ const viewerOptions = {
     showPrintPDF: false,
     showLeftHandPanel: true,
     showAnnotationTools: true
-//     enableAnnotationAPIs: true, 
-    includePDFAnnotations: true,
 
 };
 
